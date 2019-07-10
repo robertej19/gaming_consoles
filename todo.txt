@@ -1,0 +1,12 @@
+ToDo:
+https://en.wikipedia.org/wiki/List_of_PlayStation_2_games
+make a scraper to download the dates of every game title released for each console, then produce a cumulative time graph for each console showing total number of games made for each. 
+
+
+
+
+DONE:
+How many games have ever been made in each game system?
+https://en.m.wikipedia.org/wiki/PlayStation_3#Games
+Make an xkcd python plot and send to Florian
+https://www.neogaf.com/threads/number-of-games-for-each-console.1339962/
